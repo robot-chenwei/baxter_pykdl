@@ -7,8 +7,8 @@ find_package(catkin
   rospy
   geometry_msgs
   sensor_msgs
-  urdfdom
-  python_orocos_kdl
+  #urdfdom
+  #python_orocos_kdl
   tf
   baxter_core_msgs
   baxter_interface
@@ -21,8 +21,8 @@ catkin_package(
   rospy
   geometry_msgs
   sensor_msgs
-  urdfdom
-  python_orocos_kdl
+  #urdfdom
+  #python_orocos_kdl
   tf
   baxter_interface
   baxter_core_msgs
